@@ -1,0 +1,10 @@
+c. Jaka jest podstawowa różnica pomiędzy SCRUM a Kanban? 
+Tablice Scrum
+Tablica Scrum jest przydatna dla tych zespołów, które chcą bardziej szczegółowo zaplanować swoją pracę jeszcze przed jej rozpoczęciem. Planowanie zazwyczaj polega na tworzeniu sprintów i nadawaniu określonej wagi (story points) poszczególnym zadaniom. Następnie zespół wspólnie ustala priorytety i przydziela zadania do odpowiednich sprintów. Podczas tworzenia tablicy Scrum, powstaje również backlog – lista zadań oczekujących na przydzielenie do właściwego sprintu.
+
+Tablica Scrum w Jira składa się z dwóch modułów: aktywnego sprintu i trybu planowania. W trybie planowania zespoły przenoszą zlecenia z backlogu do sprintu i estymują czas wykonywania poszczególnych zadań. Aktywny sprint to miejsce, gdzie zadania są przenoszone pomiędzy różnymi kolumnami, które reprezentują ich statusy postępu. Moduł aktywnego sprintu zawiera także opcję ukończenia sprintu.
+
+Tablice Kanban
+Kanban to metodyka, która pozwala zespołom na pracę w projekcie bez wcześniej ustalonego harmonogramu. Tablica Kanban wygląda podobnie do scrumowej tablicy aktywnego sprintu, ponieważ również zbudowana jest z kolumn reprezentujących różne statusy postępu. Jednak Kanban nie pozwala na organizację zadań w sprinty. Tablica Kanban stworzona jest do zarządzania całością zleceń związanych z danym projektem, a nie do dzielenia ich na partie, dzięki czemu zespół nie musi estymować czasu ich realizacji. W tablicach Scrum nie jest to możliwe.
+
+Zespoły mogą tworzyć tablice Kanban, aby z łatwością monitorować przebieg zadań, uczynić projekt bardziej przejrzystym i mieć pewność, że wszyscy współpracownicy mają dostęp do niezbędnych danych. Pracownicy nie muszą już tracić czasu na wzajemne informowanie się o zmianach – wszystko uwzględnione jest w tablicy Kanban. 
