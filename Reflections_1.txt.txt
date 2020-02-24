@@ -1,0 +1,8 @@
+Wymagania funkcjonalne 
+Stwierdzają, jakie usługi ma oferować system, jak ma reagować na
+określone dane wejściowe oraz jak ma się zachowywać w określonych
+sytuacjach. W niektórych wypadkach wymagania funkcjonalne
+określają, czego system nie powinien robić.
+Wymaganie niefunkcjonalne
+Określają ograniczenia usług i funkcji systemu (czasowe, dotyczące
+procesu tworzenia, standardów itd.)
